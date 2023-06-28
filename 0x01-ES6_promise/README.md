@@ -1,7 +1,7 @@
 # 0x01. ES6 Promises
 **`Javscript`** **`ES6`**
 
-![meme](./images/meme1.png)
+![meme](./images/meme1.jpeg)
 
 ## Resources
 **Read or watch:**
