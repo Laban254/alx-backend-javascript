@@ -1,5 +1,7 @@
 # 0x02. ES6 classes
 | `OOP` | `JavaScript` | `ES6` |
+![meme3](https://github.com/Laban254/alx-backend-javascript/assets/64686919/dfe739bd-bb89-4591-901e-11ae81139c49)
+
 
 ## Resources
 **Read or watch:**
