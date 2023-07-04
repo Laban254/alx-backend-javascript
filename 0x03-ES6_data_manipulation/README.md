@@ -1,7 +1,8 @@
 # 0x03. ES6 data manipulation
 | `JavaScript` | `ES6` |
 
-![](./images/meme4.jpg)
+
+![meme4](https://github.com/Laban254/alx-backend-javascript/assets/64686919/11676c90-9bae-4d20-8bee-5aba007bd0c2)
 ## Resources
 **Read or watch:**
 
