@@ -1,4 +1,11 @@
 # Unittests in JS
+**UnitTests ||**
+**Back-end ||**
+**JavaScript ||**
+**ES6 ||**
+**NodeJS ||**
+**ExpressJS ||**
+**Mocha**
 
 This project contains tasks for learning to create unittests in NodeJS.
 
